@@ -1,0 +1,23 @@
+{
+  "name": "burger_api",
+  "version": "1.0.0",
+  "description": "This is \" My Burger API \" a tutorial that I followed with Ania Kubów on YouTube.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/moatefdev/burger_api.git"
+  },
+  "author": "Mohamed Atef",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/moatefdev/burger_api/issues"
+  },
+  "homepage": "https://github.com/moatefdev/burger_api#readme",
+  "dependencies": {
+    "json-server": "^0.16.3"
+  }
+}
